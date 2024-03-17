@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/PachinkoScene.unity
+    guid: 5b6bed1b1847d4141a54608d9e6db44f
   m_configObjects: {}
